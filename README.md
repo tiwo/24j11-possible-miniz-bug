@@ -1,3 +1,5 @@
+    ⚠️ this is unfinished business. There is nothing to see here.
+
 # possible miniz bug
 
 WHile compressing some highly compressible data with miniz, I've come across a data error that I can't exmplain: One 16-bit word seems to have doubled in the middle of the stream.
